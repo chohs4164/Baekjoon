@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 int main() {
-	int N, M; //N:¿­,M:Çà
+	int N, M; //N:Â¿Â­,M:Ã‡Ã 
 	int A[100][100],B[100][100];
 
 	scanf("%d %d", &N, &M);
